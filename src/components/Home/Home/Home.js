@@ -1,5 +1,5 @@
 import React from 'react';
-import Footer from '../Footer/Footer';
+import Footer from '../../Shared/Footer/Footer';
 import Blogs from '../Blogs/Blogs';
 import Contact from '../Contact/Contact';
 import Doctors from '../Doctors/Doctors';
